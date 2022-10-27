@@ -4,7 +4,7 @@ const {lisays, kerto, jako, vahennus} = require('.{aritmeettiset}');
 test('2+3=5', () => {
   expect(lisaus(2,3)).toBe(5);
 });
-test('3*4=12' () => {
+test('3 * 4 = 12', () => {
   expect(kerto(3,4)).toBe(12);
 });
 test('5-6=-1', () => {
