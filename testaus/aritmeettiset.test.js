@@ -1,4 +1,4 @@
-const {lisays, kerto, jako, vahennus} = require('.aritmeettiset');
+const {lisays, kerto, jako, vahennus} = require('./aritmeettiset');
 // YKSILÖTESTIT
 
 test('2+3=5', () => {
